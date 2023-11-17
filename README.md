@@ -6,9 +6,9 @@
 
 ## Features
 - **Hypergimic-based Characters:** Utilizes C# for random-based characterizations to enhance user attention.
-- **Simulated Cityscapes:** Every building, street, and prop is meticulously crafted in Blender for an immersive environment.
+- **Simulated City zoo environment:** Every building, street, and prop is meticulously crafted in Blender for an immersive environment.
 - **Dynamic Lighting:** Makes use of Unity's lighting system to reflect different times of day and weather conditions.
-- https://github.com/MenorahOlive/MonkeyRush/pull/1/conflict?name=README.md&ancestor_oid=643cf549e992b737fb51a6dbeef8332473099b6f&base_oid=d12430faef959a75276a1f1a075db4a3471fb6c8&head_oid=1949934d9b6056a8c3201089dda497445a0eae73**Car Physics:** Employs C# for precise car movement and collision detection.
+- **Car Physics:** Employs C# for precise car movement and collision detection.
 - **C# scripting**: this has been used within Unity to handle game mechanics including car physics, character behaviors, environmental interactions, dynamic lighting, and core game logic, creating an interactive urban driving experience.
 
 ## Requirements
