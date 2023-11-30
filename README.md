@@ -5,7 +5,7 @@
 "Monkey Rush" is a 3D simulation of a monkey driving a car through a simulated city zooscape. This project is developed in C#, designed in Blender, and deployed using Unity. It aims to provide an interactive driving experience.
 
 ## Features
-- **gamified Characters:** Utilizes C# for random-based characterizations to enhance user attention.
+- **Gamified Characters:** Utilizes C# for random-based characterizations to enhance user attention.
 - **Simulated Cityscapes:** Every prop is meticulously crafted in Blender for an immersive environment.
 - **Dynamic Lighting:** Makes use of Unity's lighting system to reflect different times of day and weather conditions.
 - **Car Physics:** Employs C# for precise car movement and collision detection.
